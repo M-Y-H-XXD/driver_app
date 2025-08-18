@@ -1,0 +1,19 @@
+{
+    "language":"language",
+    "sign_out":"log out",
+    "choose_language":"choose language",
+
+    "current_mission":"Current Mission",
+    "next_mission":"next mission",
+
+    "your_status_is":"your status is",
+
+    "finish_mission":"finish mission",
+    "new_mission":"new mission",
+    
+    "from":"from",
+    "to":"to",
+    "source_details":"source details",
+    "destination_details":"destination details",
+    "date_of_receiving":"date of receiving"
+}

@@ -1,0 +1,19 @@
+{
+    "language": "اللغة",
+    "sign_out":"تسجيل الخروج",
+    "choose_language":"اختر اللغة",
+
+    "current_mission":"المهمة الحالية",
+    "next_mission":"المهمة التالية",
+
+    "your_status_is":"حالتك هي",
+
+    "finish_mission":"إنهاء المهمة",
+    "new_mission":"مهمة جديدة",
+    
+    "from":"من",
+    "to":"إلى",
+    "source_details":"تفاصيل المصدر",
+    "destination_details":"تفاصيل الوجهة",
+    "date_of_receiving":"تاريخ الاستلام"
+}
