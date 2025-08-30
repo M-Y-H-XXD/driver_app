@@ -8,9 +8,9 @@ class LogOutUser {
   }
 
   void logOutUser() async {
-    var url = Uri.parse('http://10.0.2.2:8000/api/logout_user');
+    var url = Uri.parse('http://10.0.2.2:8000/api/logout_employe');
     String? token = await readSecureValue(key: 'token');
-    var response = await post(
+    var response = await get(
       url,
       headers: {
         'Content-Type': 'application/json',
